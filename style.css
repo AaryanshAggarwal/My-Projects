@@ -1,0 +1,35 @@
+#apps {
+   width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+.Container {
+    text-align: center;
+}
+#myCarousel {
+    background-color:  coral;
+}
+#myCarousel img {
+ height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white
+}
+#myCarouse2 {
+    background-color: darkgoldenrod;
+}
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+.black {
+    background-color: black;
+    color: white
+}
+#mbper {
+    background-color: darkviolet;
+    color: black;
+}
